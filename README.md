@@ -8,7 +8,7 @@
 
 ## I'm a passionate technology student aspiring to become a software developer dedicated to shaping a better future through innovation...  
 
-|Some technologies I'm familiar whith:|
+|Some technologies I'm familiar with:|
 |-----------------------------|
 |<code><img widht="30" height="40" src="https://w7.pngwing.com/pngs/840/443/png-transparent-html-5-logo-web-development-html-css3-canvas-element-web-design-w3c-html5-logo-miscellaneous-text-orange-thumbnail.png"></code>    HTML|
 |<code><img widht="30" height="40" src="https://w7.pngwing.com/pngs/73/762/png-transparent-html-css-design-and-build-web-sites-web-development-cascading-style-sheets-world-wide-web-web-design-text-logo-thumbnail.png"></code>    CSS  |
