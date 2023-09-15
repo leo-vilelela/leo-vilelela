@@ -1,6 +1,6 @@
 # Leonardo Vilela  
 
- [<img widht="30" height="40" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png">](https://www.linkedin.com/in/leonardo-vilela32/)[<img widht="25" height="35" src="https://gifs.eco.br/wp-content/uploads/2023/07/imagens-de-simbolo-email-png-19.png">](alvesvilelaster@gmail.com)
+ [<img widht="30" height="40" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png">](https://www.linkedin.com/in/leonardo-vilela32/)[<img widht="25" height="35" src="https://gifs.eco.br/wp-content/uploads/2023/07/imagens-de-simbolo-email-png-19.png">](mailto:alvesvilelaster@gmail.com)
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/free-vector/realistic-technology-background_52683-73672.jpg?w=400&t=st=1694460927~exp=1694461527~hmac=eaaf71f9dc4164d07d5f0024b81f0c5f427020f0c79b1feb51b52f7a80f0620a">
